@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img = cv2.imread('E:/Python Automations/Imageprocessing/elon_musk_tesla_3036.jpg')
+img = cv2.imread('Add the Image Path!!!!!!!')
 
 ### Getting a gray scale image
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
